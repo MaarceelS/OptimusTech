@@ -30,7 +30,7 @@ O **OptimusTech** é um projeto desenvolvido como parte do desafio **#7DaysOfCod
 
 ## 🔗 Desafio
 
-Este projeto foi desenvolvido com base no desafio da **Alura** chamado **[#7DaysOfCode - HTML e CSS](https://7daysofcode.io/)**, com foco na prática e desenvolvimento de habilidades front-end.
+Este projeto foi desenvolvido com base no desafio da **Alura** chamado **[#7DaysOfCode - HTML e CSS](https://7daysofcode.io/matricula/html-css)**, com foco na prática e desenvolvimento de habilidades front-end.
 
 ## 🔗 Acesse o projeto
 
