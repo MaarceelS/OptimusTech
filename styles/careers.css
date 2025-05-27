@@ -1,0 +1,62 @@
+.careers {
+    text-align: center;
+}
+
+.careers__title {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4px 12px;
+    border-radius: 16px;
+    background: var(--background-red-span);
+    margin-top: 5em;
+    font-size: 14px;
+    color: var(--red);
+}
+.careers__subtitle {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--grey-900);
+    padding: 1em 0;
+}
+
+.careers__text {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--grey-500);
+}
+
+.careers__img {
+    padding: 3em 0;
+    width: 85%;
+}
+
+.info {
+    margin: 0 25em;
+}
+
+.info__title {
+    font-size: 20px;
+    color: var(--grey-900);
+    margin: 2em auto;
+    
+}
+.info__job {
+    display: flex;
+    flex-direction: column;
+    border-radius: 16px;
+    border: 1px solid var(--grey-200);
+    padding: 24px 24px 28px 24px;
+    gap: 2em;
+    margin: 1em auto;
+}
+
+.info__job-title{
+    font-size: 18px;
+    color: var(--grey-900);
+}
+
+.info__job-info{
+
+    color: var(--grey-500);
+}

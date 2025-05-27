@@ -1,0 +1,35 @@
+.testimonial {
+    background-color: var(--background-red);
+    margin: 8em auto;
+    max-width: 1200px;
+    padding: 3em 3em;
+    text-align: center;
+    border-radius: 16px;
+}
+
+.testimonial__title {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--red);
+}
+.testimonial__subtitle {
+    padding: 1em 0;
+    font-size: 36px;
+    color: var(--grey-900);
+}
+
+.testimonial__img {
+    border-radius: 24px;
+    background: url("../assets/Avatar.svg") lightgray 50% / cover no-repeat;
+}
+
+.testimonial__name {
+    padding: 1em 0;
+    color: var(--grey-900);
+}
+
+.testimonial__text {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--grey-500);
+}

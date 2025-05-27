@@ -1,0 +1,28 @@
+@import url(styles/cabecalho.css);
+@import url(styles/banner.css);
+@import url(styles/careers.css);
+@import url(styles/testimonial.css);
+@import url(styles/footer.css);
+
+:root {
+    --font-principal: "Inter";
+    --color-background: #fff;
+    --color-logo: #3A404E;
+    --grey-900: #101828;
+    --grey-500: #667085;
+    --grey-400: #98A2B3;
+    --grey-200: #EAECF0;
+    --grey-50: #F9FAFB;
+    --grey-border-email: #D0D5DD;
+    --red: #8E2424;
+    --background-red: rgba(195, 25, 25, 0.03);
+    --background-red-span: rgba(142, 36, 36, 0.05);
+}
+
+body{
+    width: 100vw;
+    background-color: var(--color-background);
+    font-family: var(--font-principal);
+    font-size: 16px;
+    font-weight: 500;
+}
